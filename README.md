@@ -1,5 +1,5 @@
 # Instudent
-making project app named Instudent using kotlin.
+making project app named Instudent which is useful for recapitulating student absences using kotlin.
 
 ## Build With
 * Kotlin
